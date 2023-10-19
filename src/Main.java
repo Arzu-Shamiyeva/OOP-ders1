@@ -10,5 +10,6 @@ public class Main {
         hrm.work();
         hrm.getSalary();
         hrm.addEmployee();
+        System.out.println("Test git commit");
     }
 }
